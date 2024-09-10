@@ -1,4 +1,4 @@
-# IF-Goiano Software Engineering I
+# IF-Goiano Computational Modeling in Graphs
 <br>
 
 ### Sejam bem-vindos à organização da disciplina de Modelagem Computacional em Grafos. Esta disciplina é parte do currículo do curso de Bacharelado em Ciência da Computação, ofertada no quinto período do Instituto Federal Goiano - Campus Morrinhos.
